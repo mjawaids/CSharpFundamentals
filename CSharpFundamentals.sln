@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpFundamentals", "Hello\CSharpFundamentals.csproj", "{E32CD404-395D-497F-ACD3-4B2441D7CF67}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpFundamentals", "CSharpFundamentals\CSharpFundamentals.csproj", "{E32CD404-395D-497F-ACD3-4B2441D7CF67}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpFundamentals.UnitTests", "Hello.UnitTests\CSharpFundamentals.UnitTests.csproj", "{7BE96609-6A99-48D8-8273-ACFD4D703754}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpFundamentals.UnitTests", "CSharpFundamentals.UnitTests\CSharpFundamentals.UnitTests.csproj", "{7BE96609-6A99-48D8-8273-ACFD4D703754}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
